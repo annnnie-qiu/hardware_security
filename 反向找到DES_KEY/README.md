@@ -37,6 +37,8 @@ des_scan_attack/
 
 为了从 DES IP 中恢复密钥，我们参考了下图中 DES 的高层结构：
 ![image](https://github.com/user-attachments/assets/d5f1fe27-b1b7-44be-81c3-5a94dad7c862)
+![image](https://github.com/user-attachments/assets/4dcfbe99-8a15-4091-a619-18062f0829cf)
+
 
 
 > 图 1：DES 加密结构（包括轮函数和密钥派生）
